@@ -17,7 +17,7 @@
 
 Desafio proposto pela [Jüssi](https://jussi.com.br/).
 
-Este desafio consiste na criação de uma **Landing page** a partir de um layout proposto pelo [Figma](https://www.figma.com/file/O9AEeYB6ZWyMTZzMZhvjaY/loja-vtex-jussi?node-id=0%3A1). Foi utilizado React como base do projeto, além disso na busca do header está sendo utilizado a API do [The Movie Database](https://developers.themoviedb.org/3/getting-started/introduction) para a busca e exibição de filmes através de um modal.
+Este desafio consiste na criação de uma **Landing page** a partir de um layout proposto no [Figma](https://www.figma.com/file/O9AEeYB6ZWyMTZzMZhvjaY/loja-vtex-jussi?node-id=0%3A1). Foi utilizado React como base do projeto, além disso na busca do header está sendo utilizado a API do [The Movie Database](https://developers.themoviedb.org/3/getting-started/introduction) para a busca e exibição de filmes através de um modal.
 
 ## Techs ​⚙ ​<a name="techs" />
 
